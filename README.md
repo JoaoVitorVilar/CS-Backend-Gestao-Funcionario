@@ -1,3 +1,3 @@
 Grupo:  
-João Vitor Oliveira [Backend]
+João Vitor Oliveira [Backend]  
 Willian Junior [Frontend]
